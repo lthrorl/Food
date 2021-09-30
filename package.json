@@ -25,6 +25,7 @@
     "json-server": "^0.16.3"
   },
   "dependencies": {
-    "@babel/polyfill": "^7.12.1"
+    "@babel/polyfill": "^7.12.1",
+    "nodelist-foreach-polyfill": "^1.2.0"
   }
 }
